@@ -1,1 +1,1 @@
-# Voice-Assistant-using-chatGPT
+# VoiceAssistant_Using_ChatGPT
